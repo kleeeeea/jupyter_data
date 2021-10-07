@@ -7,3 +7,5 @@ The Jupyter Notebooks might not always deliver exactly the same results shown on
 But whatever the cause, it's a good thing, because it'll force you to understand exactly what the code is doing and how it interacts with its host environment. 
 
 Good luck!
+
+https://www.youtube.com/watch?v=jcTj6FgWOpo&list=UU8butISFwT-Wl7EV0hUK0BQ&index=56&ab_channel=freeCodeCamp.org
